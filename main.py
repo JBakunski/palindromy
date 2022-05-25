@@ -1,5 +1,3 @@
-from audioop import reverse
-
 
 def is_palindrom(word):
     reversed_word = ''
