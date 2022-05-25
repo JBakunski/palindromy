@@ -10,3 +10,4 @@ def is_palindrom(word):
     
 
 
+print(is_palindrom('kajak'))
