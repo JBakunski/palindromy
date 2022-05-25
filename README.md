@@ -1,1 +1,1 @@
-The function is_palindrom take one string argument and check if passed argument is palindrom or not.
+The function is_palindrom takes one string argument and check if passed argument is palindrome or not.
